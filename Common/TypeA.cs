@@ -53,7 +53,7 @@ namespace Common
     // 3. Default implemented method [C# 8.0 .NET Core 3.1]
 
     // Access Modifiers in interface
-    // All except private
+    // All except private 
 
     // Default Access Modifier inside interface is public
 

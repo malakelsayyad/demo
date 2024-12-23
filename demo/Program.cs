@@ -2,7 +2,7 @@
 
 namespace demo
 {
-    internal class Program
+    internal class Program 
     {
         #region Exception Handling and Protective Code
         //static void DoSomeCode()
